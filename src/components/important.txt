@@ -1,0 +1,2 @@
+task for sunday
+write programm, that finds all words from another word
