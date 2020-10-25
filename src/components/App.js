@@ -13,6 +13,7 @@ class App extends Component {
                 <h1>My React App!</h1>
                 <img src={webpackLogo}/>
                 <img src={faceMaster}/>
+                
             </div>
         );
     }
